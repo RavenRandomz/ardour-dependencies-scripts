@@ -1,4 +1,4 @@
-sudo apt install libboost-all-dev build-essentials python3 python-is-python3 libasound2-dev\
+sudo apt install libboost-all-dev build-essential python3 python-is-python3 libasound2-dev\
 	libpulse-dev  libglibmm-2.4-dev libsndfile1-dev libcurlpp-dev libarchive-dev liblo-dev\
 	libtag1-dev vamp-plugin-sdk librubberband-dev libusb-1.0-0-dev\
 	libjack-jackd2-dev clang libclang-cpp-dev libfftw3-dev libudev-dev libaubio-dev libpng++-dev\
